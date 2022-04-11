@@ -85,7 +85,7 @@ summarylength = 25
     title               = "LAVORIAMO INSIEME"
     primary_button      = "Contattaci"
     primary_button_url  = "contact"
-    secondary_button    = "Non Convinto?"
+    secondary_button    = "Non sei convinto?"
     secondary_button_url = "portfolio"
 
   [params.footer]
